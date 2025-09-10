@@ -1,2 +1,2 @@
 # Causal-ASQP
-Causal-ASQP: Causal Enhanced Generation for Aspect sentiment Quad Prediction
+Causal-ASQP: Causal Enhanced Generation for Aspect Sentiment Quad Prediction
